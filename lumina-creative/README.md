@@ -4,7 +4,7 @@ A modern responsive multi-page portfolio website built using HTML5, CSS3, Flexbo
 
 ---
 
-## 🚀 Features
+## Features
 
 - Responsive multi-page website
 - Modern clean UI design
@@ -19,7 +19,7 @@ A modern responsive multi-page portfolio website built using HTML5, CSS3, Flexbo
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
