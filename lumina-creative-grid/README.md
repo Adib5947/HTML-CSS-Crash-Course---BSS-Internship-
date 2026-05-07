@@ -48,18 +48,6 @@ This version is the improved Grid-based version of the original Lumina Creative 
 
 ---
 
-### About Page
-
-![About Page](about.png)
-
----
-
-### Contact Page
-
-![Contact Page](contact.png)
-
----
-
 ## 📁 Folder Structure
 
 ```bash
