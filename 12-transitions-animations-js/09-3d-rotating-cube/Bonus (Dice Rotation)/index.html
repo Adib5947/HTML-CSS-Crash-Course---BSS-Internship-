@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>3D Dice Cube</title>
+  </head>
+  <body>
+    <h1>HTML &amp; CSS Sandbox - 3D Dice Cube</h1>
+
+    <div class="container">
+      <div class="cube" id="cube">
+        <!-- Front - 1 -->
+        <div class="face front">
+          <div class="dot center"></div>
+        </div>
+
+        <!-- Back - 6 -->
+        <div class="face back six">
+          <div class="column">
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+          </div>
+          <div class="column">
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+          </div>
+        </div>
+
+        <!-- Right - 3 -->
+        <div class="face right three">
+          <div class="dot top-right"></div>
+          <div class="dot center"></div>
+          <div class="dot bottom-left"></div>
+        </div>
+
+        <!-- Left - 4 -->
+        <div class="face left four">
+          <div class="column">
+            <div class="dot"></div>
+            <div class="dot"></div>
+          </div>
+          <div class="column">
+            <div class="dot"></div>
+            <div class="dot"></div>
+          </div>
+        </div>
+
+        <!-- Top - 5 -->
+        <div class="face top five">
+          <div class="dot top-left"></div>
+          <div class="dot top-right"></div>
+          <div class="dot center"></div>
+          <div class="dot bottom-left"></div>
+          <div class="dot bottom-right"></div>
+        </div>
+
+        <!-- Bottom - 2 -->
+        <div class="face bottom two">
+          <div class="dot top-right"></div>
+          <div class="dot bottom-left"></div>
+        </div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,130 @@
+body {
+  font-family: Arial, sans-serif;
+  background: black;
+  overflow: hidden;
+}
+
+h1 {
+  text-align: center;
+  margin: 50px 30px;
+  font-size: 22px;
+  color: white;
+}
+
+.container {
+  perspective: 1000px;
+  width: 200px;
+  height: 200px;
+  margin: 300px auto;
+}
+
+.cube {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+}
+
+/* Base face */
+.face {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  background: #ffffff;
+  border: 3px solid #222;
+  box-sizing: border-box;
+}
+
+/* Face transforms */
+.front {
+  transform: translateZ(100px);
+}
+.back {
+  transform: rotateY(180deg) translateZ(100px);
+}
+.right {
+  transform: rotateY(90deg) translateZ(100px);
+}
+.left {
+  transform: rotateY(-90deg) translateZ(100px);
+}
+.top {
+  transform: rotateX(90deg) translateZ(100px);
+}
+.bottom {
+  transform: rotateX(-90deg) translateZ(100px);
+}
+
+/* Dots */
+.dot {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background: #111;
+  border-radius: 50%;
+}
+
+/* Named positions */
+.top-left {
+  top: 30px;
+  left: 30px;
+}
+.top-right {
+  top: 30px;
+  right: 30px;
+}
+.center {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.bottom-left {
+  bottom: 30px;
+  left: 30px;
+}
+.bottom-right {
+  bottom: 30px;
+  right: 30px;
+}
+
+/* Six */
+.six {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.six .column {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 80%;
+}
+.six .dot {
+  position: static;
+  width: 28px;
+  height: 28px;
+  background: #111;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+/* Four */
+.four {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.four .column {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 80%;
+}
+.four .dot {
+  position: static;
+  width: 28px;
+  height: 28px;
+  background: #111;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
