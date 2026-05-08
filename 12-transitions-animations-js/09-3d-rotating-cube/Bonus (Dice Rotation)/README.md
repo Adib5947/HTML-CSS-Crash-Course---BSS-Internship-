@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/b329b47b-9b09-446a-8296-9bf9a9e21141
+
+
+
 # 🎲 3D Dice Cube
 
 A pure **HTML, CSS, and JavaScript** 3D rotating dice built from scratch — no libraries, no frameworks.
@@ -7,8 +13,6 @@ A pure **HTML, CSS, and JavaScript** 3D rotating dice built from scratch — no 
 ## Preview
 
 https://github.com/user-attachments/assets/dice-rotation.mp4
-
-> Place `dice-rotation.mp4` in the root of your repository and GitHub will render it inline automatically.
 
 ---
 
