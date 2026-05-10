@@ -1,0 +1,27 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Blob Background -->
+  <path d="M148 33C167 51 176 82 171 112C166 142 147 170 118 177C89 184 50 171 29 145C8 119 5 80 22 51C39 22 76 3 109 8C126 10 139 16 148 33Z" fill="url(#paint0_linear)"></path>
+
+  <!-- Hive Pencil Icon -->
+  <g stroke="white" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    
+    <!-- Pencil Body -->
+    <path d="M68 112L116 64L126 74L78 122H68V112Z"></path>
+
+    <!-- Pencil Tip -->
+    <path d="M116 64L124 56L134 66L126 74"></path>
+
+    <!-- Base Line -->
+    <path d="M64 126H118"></path>
+
+    <!-- Small Honeycomb Accent -->
+    <polygon points="92,84 98,88 98,96 92,100 86,96 86,88" fill="white" stroke="none"></polygon>
+  </g>
+
+  <defs>
+    <linearGradient id="paint0_linear" x1="20" y1="20" x2="160" y2="160" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F9C74F"></stop>
+      <stop offset="1" stop-color="#F4A261"></stop>
+    </linearGradient>
+  </defs>
+</svg>

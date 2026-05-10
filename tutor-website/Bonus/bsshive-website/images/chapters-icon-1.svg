@@ -1,0 +1,24 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Blob Background -->
+  <path d="M148 33C167 51 176 82 171 112C166 142 147 170 118 177C89 184 50 171 29 145C8 119 5 80 22 51C39 22 76 3 109 8C126 10 139 16 148 33Z" fill="url(#paint0_linear)"></path>
+
+  <!-- Hive Hexagon -->
+  <g stroke="white" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M90 52L114 66V94L90 108L66 94V66L90 52Z"></path>
+    
+    <!-- Inner Hive Lines -->
+    <path d="M90 52V108"></path>
+    <path d="M66 66L114 94"></path>
+    <path d="M114 66L66 94"></path>
+  </g>
+
+  <!-- Small Center Dot -->
+  <circle cx="90" cy="80" r="5" fill="white"></circle>
+
+  <defs>
+    <linearGradient id="paint0_linear" x1="20" y1="20" x2="160" y2="160" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F9C74F"></stop>
+      <stop offset="1" stop-color="#F4A261"></stop>
+    </linearGradient>
+  </defs>
+</svg>

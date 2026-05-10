@@ -1,0 +1,28 @@
+<svg width="100%" viewBox="0 0 680 120" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">BSSHive Logo</title>
+  <desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">BSSHive brand logo with chevron icon and wordmark</desc>
+  <defs>
+    
+  </defs>
+
+  <!-- Icon: left-pointing chevron/arrow pentagon matching the favicon -->
+  <!-- Shape: right edge flat, left edge pointed -->
+  <g transform="translate(40, 10)" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+    <!-- Golden pentagon arrow shape -->
+    <polygon points="38,0 72,0 72,100 38,100 6,50" fill="#ffc107" style="fill:rgb(255, 193, 7);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <!-- Black H cutout -->
+    <!-- Left bar -->
+    <rect x="24" y="22" width="14" height="56" fill="#212529" rx="1" style="fill:rgb(33, 37, 41);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <!-- Right bar -->
+    <rect x="50" y="22" width="14" height="56" fill="#212529" rx="1" style="fill:rgb(33, 37, 41);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <!-- Crossbar -->
+    <rect x="24" y="45" width="40" height="12" fill="#212529" style="fill:rgb(33, 37, 41);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  </g>
+
+  <!-- BSS text -->
+  <text x="140" y="77" font-family="Poppins, 'Segoe UI', sans-serif" font-size="48" font-weight="700" fill="#ffffff" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Poppins, &quot;Segoe UI&quot;, sans-serif;font-size:48px;font-weight:700;text-anchor:start;dominant-baseline:auto">BSS</text>
+
+  <!-- Hive text -->
+  <text x="258" y="77" font-family="Poppins, 'Segoe UI', sans-serif" font-size="48" font-weight="700" fill="#ffc107" style="fill:rgb(255, 193, 7);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Poppins, &quot;Segoe UI&quot;, sans-serif;font-size:48px;font-weight:700;text-anchor:start;dominant-baseline:auto">Hive</text>
+</svg>
