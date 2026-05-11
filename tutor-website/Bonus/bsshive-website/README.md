@@ -12,8 +12,6 @@ Developed by **Adib Ahmed** during internship at **Bangladesh Software Solution 
 
 🔗 https://bsshive.vercel.app/
 
-> Replace this URL with your Netlify / Vercel / GitHub Pages deployment link.
-
 ---
 
 # Website Preview
@@ -143,3 +141,7 @@ BSSHive/
 ├── contact.html
 └── README.md
 ```
+
+## Author
+
+Adib Ahmed - AI Engineer Intern - Bangladesh Software Solution (BSS)
