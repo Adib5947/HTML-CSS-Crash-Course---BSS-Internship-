@@ -1,7 +1,5 @@
 # BSSHive
 
-![BSSHive Banner](<./home(2).png>)
-
 A modern and responsive business course landing page built using **HTML5, CSS3, and JavaScript**.
 
 BSSHive is designed with a premium black-and-yellow branding style focused on showcasing online business courses, learning materials, summaries, chapters, newsletters, and contact functionality.
@@ -22,7 +20,7 @@ Developed by **Adib Ahmed** during internship at **Bangladesh Software Solution 
 
 ## Hero Section
 
-![Hero Section](<./home(2).png>)
+![Hero Section](./home.png)
 
 ---
 
@@ -72,7 +70,7 @@ Developed by **Adib Ahmed** during internship at **Bangladesh Software Solution 
 
 ## Footer & Social Media Section
 
-![Footer](<./footer(1).png>)
+![Footer](./footer.png)
 
 ---
 
