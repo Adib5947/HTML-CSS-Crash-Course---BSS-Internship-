@@ -6,13 +6,13 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,wght@6..144,1..1000&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
       rel="stylesheet"
     />
     <link
       rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
-      integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+      integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     />
@@ -21,33 +21,38 @@
     <title>Leno App | Health & Productivity</title>
   </head>
   <body>
-    <navbar class="navbar navbar--scroll">
+    <navbar class="navbar">
       <div class="navbar__container container">
         <div class="navbar__logo">
-          <img src="./images/logo.svg" alt="Leno">
+          <img src="./images/logo.svg" alt="Leno" />
         </div>
         <div class="navbar__menu">
           <ul class="navbar__menu-list">
             <li class="navbar__menu-item">
-              <a href="#" class="navbar__menu-link">Home</a>
+              <a href="index.html" class="navbar__menu-link">Home</a>
             </li>
             <li class="navbar__menu-item">
-              <a href="#features" class="navbar__menu-link">Features</a>
+              <a href="index.html#features" class="navbar__menu-link"
+                >Features</a
+              >
             </li>
             <li class="navbar__menu-item">
-              <a href="#preview" class="navbar__menu-link">Preview</a>
+              <a href="index.html#preview" class="navbar__menu-link">Preview</a>
             </li>
             <li class="navbar__menu-item">
-              <a href="#details" class="navbar__menu-link">Details</a>
+              <a href="index.html#details" class="navbar__menu-link">Details</a>
             </li>
             <li class="navbar__menu-item">
-              <a href="#download" class="navbar__menu-link">Download</a>
+              <a href="index.html#download" class="navbar__menu-link"
+                >Download</a
+              >
             </li>
             <li class="navbar__menu-item">
               <a href="#" class="navbar__menu-link--primary">
                 <i class="fa-brands fa-facebook"></i>
               </a>
             </li>
+            <li class="navbar__menu-item">
               <a href="#" class="navbar__menu-link--primary">
                 <i class="fa-brands fa-twitter"></i>
               </a>
@@ -64,25 +69,34 @@
           <div class="navbar__mobile-menu-items">
             <ul class="navbar__mobile-menu-list">
               <li class="navbar__mobile-menu-item">
-                <a href="#" class="navbar__mobile-menu-link">Home</a>
+                <a href="index.html" class="navbar__mobile-menu-link">Home</a>
               </li>
               <li class="navbar__mobile-menu-item">
-                <a href="#features" class="navbar__mobile-menu-link">Features</a>
+                <a href="index.html#features" class="navbar__mobile-menu-link"
+                  >Features</a
+                >
               </li>
               <li class="navbar__mobile-menu-item">
-                <a href="#preview" class="navbar__mobile-menu-link">Preview</a>
+                <a href="index.html#preview" class="navbar__mobile-menu-link"
+                  >Preview</a
+                >
               </li>
               <li class="navbar__mobile-menu-item">
-                <a href="#details" class="navbar__mobile-menu-link">Details</a>
+                <a href="index.html#details" class="navbar__mobile-menu-link"
+                  >Details</a
+                >
               </li>
               <li class="navbar__mobile-menu-item">
-                <a href="#download" class="navbar__mobile-menu-link">Download</a>
+                <a href="index.html#download" class="navbar__mobile-menu-link"
+                  >Download</a
+                >
               </li>
               <li class="navbar__mobile-menu-item">
                 <a href="#" class="navbar__mobile-menu-link--primary">
                   <i class="fa-brands fa-facebook"></i>
                 </a>
               </li>
+              <li class="navbar__mobile-menu-item">
                 <a href="#" class="navbar__mobile-menu-link--primary">
                   <i class="fa-brands fa-twitter"></i>
                 </a>
@@ -94,16 +108,16 @@
     </navbar>
 
     <!-- Hero -->
-     <header class="hero">
+    <header class="hero">
       <div class="hero__container container">
         <div class="hero__content">
           <h1 class="hero__title">
-            Your 
-            <span class="hero_title--primary">productivity</span> 
-            assistant
+            Your
+            <span class="hero__title--primary">productivity</span> assistant
           </h1>
           <p class="hero__description">
-            Boost your productivity and improve your health with Leno - the all-in-one app for developers and creators.
+            Boost your productivity and improve your health with Leno - the
+            all-in-one app for developers and creators.
           </p>
           <div class="hero__buttons">
             <a href="#download" class="hero__button btn">
@@ -114,14 +128,14 @@
             </a>
           </div>
         </div>
-        <div class="hero_image">
-          <img src="./images/header-smartphones.png" alt="Leno App">
+        <div class="hero__image">
+          <img src="./images/header-smartphones.png" alt="Leno App" />
         </div>
       </div>
-     </header>
+    </header>
 
-     <!-- Testimonials -->
-     <section class="testimonials" id="testimonials">
+    <!-- Testimonials -->
+    <section class="testimonials" id="testimonials">
       <div class="testimonials__container container">
         <div class="testimonials__card">
           <div class="testimonials__image">
@@ -129,8 +143,7 @@
           </div>
           <div class="testimonials__card--content">
             <p class="testimonials__card-text">
-              "Leno has truly transformed how I manage my time and
-              health.
+              "Leno has truly transformed how I manage my time and health.
               Highly recommended!"
             </p>
             <h3 class="testimonials__card-title">Samantha Samson</h3>
@@ -143,12 +156,12 @@
           </div>
           <div class="testimonials__card--content">
             <p class="testimonials__card-text">
-              "As a deeloper, I rely on Leno every day to keep me focused and energized. It's a game-changer!"
+              "As a developer, I rely on Leno every day to keep me focused and
+              energized. It's a game-changer!"
             </p>
             <h3 class="testimonials__card-title">Mike Johnson</h3>
           </div>
         </div>
-
 
         <div class="testimonials__card">
           <div class="testimonials__image">
@@ -156,16 +169,121 @@
           </div>
           <div class="testimonials__card--content">
             <p class="testimonials__card-text">
-              "With Leno, I've been able to achieve my goals faster and healthier than ever before. It's a must-have app"
+              "With Leno, I've been able to achieve my goals faster and
+              healthier than ever before. It's a must-have app!"
             </p>
             <h3 class="testimonials__card-title">Laney Smith</h3>
           </div>
         </div>
-
-
       </div>
     </section>
 
-    <script src="./js/script.js"></script>
+    <!-- Features -->
+    <section class="features" id="features">
+      <div class="features__container container">
+        <div class="features__content">
+          <h2 class="features__title">Key Takeaways</h2>
+          <p class="features__description">
+            Discover the powerful features that make Leno the ultimate
+            productivity and health companion:
+          </p>
+          <div class="features__grid">
+            <!-- Grid Column 1 -->
+            <div class="features__grid-column features__grid-column-left">
+              <!-- Grid Item 1 -->
+              <div class="features__grid-item">
+                <div class="features__grid-item-text">
+                  <h4 class="features__grid-item-text-title">Real-Time Data</h4>
+                  <p class="features__grid-item-text-description">
+                    Access real-time data instantly, ensuring you're always
+                    up-to-date with the latest information.
+                  </p>
+                </div>
+                <div class="features__grid-item-icon">
+                  <i class="fas fa-rocket fa-4x"></i>
+                </div>
+              </div>
+              <!-- Grid Item 2 -->
+              <div class="features__grid-item">
+                <div class="features__grid-item-text">
+                  <h4 class="features__grid-item-text-title">Visual Editor</h4>
+                  <p class="features__grid-item-text-description">
+                    Customize your workspace with our intuitive visual editor.
+                  </p>
+                </div>
+                <div class="features__grid-item-icon">
+                  <i class="fas fa-code fa-4x"></i>
+                </div>
+              </div>
+              <!-- Grid Item 3 -->
+              <div class="features__grid-item">
+                <div class="features__grid-item-text">
+                  <h4 class="features__grid-item-text-title">
+                    Refined Options
+                  </h4>
+                  <p class="features__grid-item-text-description">
+                    Access a wide range of refined options to tailor Leno to
+                    your unique needs.
+                  </p>
+                </div>
+                <div class="features__grid-item-icon">
+                  <i class="fas fa-gem fa-4x"></i>
+                </div>
+              </div>
+            </div>
+
+            <!-- Grid Column 2 -->
+            <div class="features__grid-column features__grid-column-center">
+              <img src="./images/features-smartphone-1.png" alt="" />
+            </div>
+
+            <!-- Grid Column 3 -->
+            <div class="features__grid-column features__grid-column-right">
+              <!-- Grid Item 1 -->
+              <div class="features__grid-item">
+                <div class="features__grid-item-text">
+                  <h4 class="features__grid-item-text-title">Calendar Input</h4>
+                  <p class="features__grid-item-text-description">
+                    Seamlessly integrate your calendar to stay organized and on
+                    track.
+                  </p>
+                </div>
+                <div class="features__grid-item-icon">
+                  <i class="fas fa-calendar fa-4x"></i>
+                </div>
+              </div>
+              <!-- Grid Item 2 -->
+              <div class="features__grid-item">
+                <div class="features__grid-item-text">
+                  <h4 class="features__grid-item-text-title">Easy Reading</h4>
+                  <p class="features__grid-item-text-description">
+                    Enjoy distraction-free reading with Leno's clean and
+                    intuitive interface.
+                  </p>
+                </div>
+                <div class="features__grid-item-icon">
+                  <i class="fas fa-book fa-4x"></i>
+                </div>
+              </div>
+              <!-- Grid Item 3 -->
+              <div class="features__grid-item">
+                <div class="features__grid-item-text">
+                  <h4 class="features__grid-item-text-title">
+                    Good Foundation
+                  </h4>
+                  <p class="features__grid-item-text-description">
+                    Leno is built on a solid foundation of user feedback and
+                    cutting-edge technology.
+                  </p>
+                </div>
+                <div class="features__grid-item-icon">
+                  <i class="fas fa-cube fa-4x"></i>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
   </body>
 </html>
