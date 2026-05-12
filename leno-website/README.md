@@ -158,9 +158,7 @@ Leno is fully responsive and optimized for:
 
 # Author
 
-**Adib Ahmed**
-AI Engineer Intern
-Bangladesh Software Solution (BSS)
+**Adib Ahmed** - AI Engineer Intern - Bangladesh Software Solution (BSS)
 
 ---
 
