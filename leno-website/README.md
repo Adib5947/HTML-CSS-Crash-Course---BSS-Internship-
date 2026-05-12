@@ -47,43 +47,43 @@ The website showcases app features, previews, pricing plans, testimonials, scree
 
 ## Home Section
 
-![Home](./images/home.png)
+![Home](./home.png)
 
 ---
 
 ## Features Section
 
-![Features](./images/features.png)
+![Features](./features.png)
 
 ---
 
 ## Preview Section
 
-![Preview](./images/preview.png)
+![Preview](./preview.png)
 
 ---
 
 ## Details Section
 
-![Details](./images/details.png)
+![Details](./details.png)
 
 ---
 
 ## Download Section
 
-![Download](./images/downloads.png)
+![Download](./downloads.png)
 
 ---
 
 ## Pricing Options
 
-![Pricing](./images/pricing_options.png)
+![Pricing](./pricing_options.png)
 
 ---
 
 ## Details Features Page
 
-![Details Features](./images/details_features.png)
+![Details Features](./details_features.png)
 
 ---
 
@@ -158,9 +158,8 @@ Leno is fully responsive and optimized for:
 
 # Author
 
-## Adib Ahmed
-
-**AI Engineer Intern**  
+**Adib Ahmed**
+AI Engineer Intern
 Bangladesh Software Solution (BSS)
 
 ---
