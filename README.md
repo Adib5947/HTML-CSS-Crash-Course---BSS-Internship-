@@ -205,6 +205,7 @@ A modern responsive multi-page portfolio website for a creative agency showcasin
 **GitHub Repository:** [View Code](https://github.com/Adib5947/HTML-CSS-BSS-Internship/tree/master/lumina-creative)
 
 **Screenshots:**
+
 ![Lumina Home](./lumina-creative/home.png)
 ![Lumina About](./lumina-creative/about.png)
 ![Lumina Contact](./lumina-creative/contact.png)
@@ -227,6 +228,7 @@ An upgraded version of Lumina Creative utilizing CSS Grid for more advanced and 
 **GitHub Repository:** [View Code](https://github.com/Adib5947/HTML-CSS-BSS-Internship/tree/master/lumina-creative-grid)
 
 **Screenshots:**
+
 ![Lumina Grid Home 1](./lumina-creative-grid/home1.png)
 ![Lumina Grid Home 2](./lumina-creative-grid/home2.png)
 
@@ -254,6 +256,7 @@ A modern and responsive video course landing page built to showcase online educa
 **GitHub Repository:** [View Code](https://github.com/Adib5947/HTML-CSS-BSS-Internship/tree/master/tutor-website)
 
 **Screenshots:**
+
 ![Tutor Home](./tutor-website/home.png)
 ![Tutor What Will You Learn](./tutor-website/whatiwilllearn.png)
 ![Tutor Chapters](./tutor-website/chapters.png)
@@ -287,6 +290,7 @@ A modern and responsive landing page for a productivity & health mobile applicat
 **GitHub Repository:** [View Code](https://github.com/Adib5947/HTML-CSS-BSS-Internship/tree/master/leno-website)
 
 **Screenshots:**
+
 ![Leno Home](./leno-website/home.png)
 ![Leno Features](./leno-website/features.png)
 ![Leno Preview](./leno-website/preview.png)
@@ -318,6 +322,7 @@ A modern and responsive business course landing page with premium black-and-yell
 **GitHub Repository:** [View Code](https://github.com/Adib5947/HTML-CSS-BSS-Internship/tree/master/tutor-website/Bonus/bsshive-website)
 
 **Screenshots:**
+
 ![BSSHive Home](./tutor-website/Bonus/bsshive-website/home.png)
 ![BSSHive Courses](./tutor-website/Bonus/bsshive-website/courses.png)
 ![BSSHive Newsletter](./tutor-website/Bonus/bsshive-website/newsletter.png)
