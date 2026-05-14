@@ -5,7 +5,7 @@ It is part of the **Essential HTML** section from the HTML & CSS learning sandbo
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The project includes:
 
@@ -21,7 +21,7 @@ This project helps beginners understand how metadata works in HTML and how searc
 
 ![Output](./output.png)
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - HTML5
 

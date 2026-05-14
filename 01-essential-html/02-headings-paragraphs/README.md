@@ -5,7 +5,7 @@ It is part of the **Essential HTML** section from the HTML & CSS learning sandbo
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The project includes:
 
@@ -23,7 +23,7 @@ This project helps beginners understand how textual content is structured and fo
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - HTML5
 
